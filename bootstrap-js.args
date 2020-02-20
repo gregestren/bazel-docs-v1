@@ -1,0 +1,8 @@
+--output=bazel-out/k8-fastbuild/bin/site/bootstrap-js.tar
+--directory=assets
+--mode=0555
+--owner=0.0
+--owner_name=.
+--mtime=portable
+--file=third_party/javascript/bootstrap/js/bootstrap.js=/js/bootstrap.js
+--file=third_party/javascript/bootstrap/js/bootstrap.min.js=/js/bootstrap.min.js

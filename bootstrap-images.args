@@ -1,0 +1,11 @@
+--output=bazel-out/k8-fastbuild/bin/site/bootstrap-images.tar
+--directory=assets
+--mode=0555
+--owner=0.0
+--owner_name=.
+--mtime=portable
+--file=third_party/css/bootstrap/fonts/glyphicons-halflings-regular.eot=/fonts/glyphicons-halflings-regular.eot
+--file=third_party/css/bootstrap/fonts/glyphicons-halflings-regular.svg=/fonts/glyphicons-halflings-regular.svg
+--file=third_party/css/bootstrap/fonts/glyphicons-halflings-regular.ttf=/fonts/glyphicons-halflings-regular.ttf
+--file=third_party/css/bootstrap/fonts/glyphicons-halflings-regular.woff=/fonts/glyphicons-halflings-regular.woff
+--file=third_party/css/bootstrap/fonts/glyphicons-halflings-regular.woff2=/fonts/glyphicons-halflings-regular.woff2

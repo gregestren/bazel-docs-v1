@@ -1,0 +1,10 @@
+--output=bazel-out/k8-fastbuild/bin/site/bootstrap-css.tar
+--directory=assets
+--mode=0555
+--owner=0.0
+--owner_name=.
+--mtime=portable
+--file=third_party/css/bootstrap/css/bootstrap.css=/css/bootstrap.css
+--file=third_party/css/bootstrap/css/bootstrap.css.map=/css/bootstrap.css.map
+--file=third_party/css/bootstrap/css/bootstrap.min.css=/css/bootstrap.min.css
+--file=third_party/css/bootstrap/css/bootstrap.min.css.map=/css/bootstrap.min.css.map

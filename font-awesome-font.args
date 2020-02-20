@@ -1,0 +1,11 @@
+--output=bazel-out/k8-fastbuild/bin/site/font-awesome-font.tar
+--directory=assets
+--mode=0555
+--owner=0.0
+--owner_name=.
+--mtime=portable
+--file=third_party/css/font_awesome/fonts/fontawesome-webfont.eot=/fonts/fontawesome-webfont.eot
+--file=third_party/css/font_awesome/fonts/fontawesome-webfont.svg=/fonts/fontawesome-webfont.svg
+--file=third_party/css/font_awesome/fonts/fontawesome-webfont.ttf=/fonts/fontawesome-webfont.ttf
+--file=third_party/css/font_awesome/fonts/fontawesome-webfont.woff=/fonts/fontawesome-webfont.woff
+--file=third_party/css/font_awesome/fonts/fontawesome-webfont.woff2=/fonts/fontawesome-webfont.woff2

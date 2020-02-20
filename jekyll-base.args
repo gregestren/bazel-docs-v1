@@ -1,0 +1,13 @@
+--output=bazel-out/k8-fastbuild/bin/site/jekyll-base.tar
+--directory=
+--mode=0555
+--owner=0.0
+--owner_name=.
+--mtime=portable
+--tar=bazel-out/k8-fastbuild/bin/site/bootstrap-css.tar
+--tar=bazel-out/k8-fastbuild/bin/site/bootstrap-images.tar
+--tar=bazel-out/k8-fastbuild/bin/site/bootstrap-js.tar
+--tar=bazel-out/k8-fastbuild/bin/site/dot.tar
+--tar=bazel-out/k8-fastbuild/bin/site/font-awesome-css.tar
+--tar=bazel-out/k8-fastbuild/bin/site/font-awesome-font.tar
+--tar=bazel-out/k8-fastbuild/bin/site/jekyll-files.tar

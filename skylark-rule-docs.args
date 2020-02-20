@@ -1,0 +1,7 @@
+--output=bazel-out/k8-fastbuild/bin/site/skylark-rule-docs.tar
+--directory=
+--mode=0555
+--owner=0.0
+--owner_name=.
+--mtime=portable
+--file=tools/build_defs/pkg/README.md=/pkg/README.md
